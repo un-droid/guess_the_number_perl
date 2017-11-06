@@ -1,0 +1,18 @@
+2017-11-02 00:11:01 Read config file successfuly!
+2017-11-02 00:11:01 Game started
+2017-11-02 00:11:01 Secret number generated: 95
+2017-11-02 00:11:01 User entered a valid input: 12
+2017-11-02 00:11:01 Guess was too low : 12
+2017-11-02 00:11:01 User has 4 tries left
+2017-11-02 00:11:01 User entered an INVALID input: alexander the great
+2017-11-02 00:11:01 User entered a valid input: 231231
+2017-11-02 00:11:01 Guess was too high : 231231
+2017-11-02 00:11:01 User has 3 tries left
+2017-11-02 00:11:01 User entered a valid input: 44
+2017-11-02 00:11:01 Guess was too low : 44
+2017-11-02 00:11:01 User has 2 tries left
+2017-11-02 00:11:01 User entered a valid input: 99
+2017-11-02 00:11:01 Guess was too high : 99
+2017-11-02 00:11:01 User has 1 tries left
+2017-11-02 00:11:01 User entered a valid input: 95
+2017-11-02 00:11:01 User guessed the secret with the correct number of : 95
